@@ -4,7 +4,7 @@ Abstract: Vietnamese Students’ Feedback Corpus (UIT-VSFC) is the resource cons
 # Publication
 If you use this dataset, please cite this paper: Kiet Van Nguyen, Vu Duc Nguyen, Phu Xuan-Vinh Nguyen, Tham Thi-Hong Truong, Ngan Luu-Thuy Nguyen, UIT-VSFC: Vietnamese Students' Feedback Corpus for Sentiment Analysis, 2018 10th International Conference on Knowledge and Systems Engineering (KSE 2018), November 1-3, 2018, Ho Chi Minh City, Vietnam.
 
-# Thesis/Publications used this dataset
+# Thesis used this dataset
 
 [1] Thien Khai Tran. Phân tích cảm xúc trên cơ sở trị cảm xúc chuyển dịch theo ngữ cảnh cho tiếng Việt (Sentiment analysis based on emotion-value transfer for Vietnamese contexts). PhD Thesis.
 
