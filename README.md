@@ -11,6 +11,7 @@ If you use this dataset, please cite this paper: Kiet Van Nguyen, Vu Duc Nguyen,
 # Publication cited this paper
 
 [1] Nguyen, P.X., Hong, T.T., Van Nguyen, K. and Nguyen, N.L.T., 2018, November. Deep learning versus traditional classifiers on Vietnamese students’ feedback corpus. In 2018 5th NAFOSTED conference on information and computer science (NICS) (pp. 75-80). IEEE.
+
 [2] Ho, V.A., Nguyen, D.H.C., Nguyen, D.H., Pham, L.T.V., Nguyen, D.V., Nguyen, K.V. and Nguyen, N.L.T., 2019, October. Emotion recognition for vietnamese social media text. In International Conference of the Pacific Association for Computational Linguistics (pp. 319-333). Springer, Singapore.
 [3] Nguyen, V.D., Van Nguyen, K. and Nguyen, N.L.T., 2018, November. Variants of long short-term memory for sentiment analysis on vietnamese students’ feedback corpus. In 2018 10th international conference on knowledge and systems engineering (KSE) (pp. 306-311). IEEE.
 [4] Kastrati, Z., Dalipi, F., Imran, A.S., Pireva Nuci, K. and Wani, M.A., 2021. Sentiment analysis of students’ feedback with NLP and deep learning: A systematic mapping study. Applied Sciences, 11(9), p.3986.
